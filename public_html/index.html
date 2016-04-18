@@ -1,0 +1,25 @@
+<html>
+    <head>
+        <title>TODO supply a title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <script type="text/javascript" src="js/angular.min.js"></script>
+        <script type="text/javascript" src="js/angular-route.js"></script>
+        <script type="text/javascript" src="js/vikings.js"></script>
+        <link rel="stylesheet" href="css/vikings.css" />
+    </head>
+    <body ng-app="vikings">
+        <div class="header">
+            <img src="img/vikings-logo.png" class="brand" alt="Home"/>
+            <ul>
+                <li>Home</li>
+                <li>Personagens</li>
+                <li>Mapa</li>
+            </ul>
+        </div>
+        <div class="body">
+            <div ng-view></div>
+        </div>
+        <div class="footer"></div>
+    </body>
+</html>
