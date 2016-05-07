@@ -7,3 +7,8 @@ body { background-color: #333333; font-family: sans-serif; margin: 0px }
 .header ul { list-style-type: none; display: inline-flex; float: left  }
 
 .header ul li { color: #CCCCCC; text-transform: uppercase; list-style-type: none; margin-right: 10px; font-size: 10pt; font-weight: bold; float: left }
+
+.header ul li a { color: #CCCCCC; text-decoration: none }
+.header ul li a:hover { color: #999999 }
+
+.header .episode { color: #CCCCCC; text-transform: uppercase; list-style-type: none; margin-right: 10px; font-size: 10pt; font-weight: bold; float: left }

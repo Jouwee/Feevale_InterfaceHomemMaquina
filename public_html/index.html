@@ -12,10 +12,13 @@
         <div class="header">
             <img src="img/vikings-logo.png" class="brand" alt="Home"/>
             <ul>
-                <li>Home</li>
-                <li>Personagens</li>
+                <li><a ng-href="#/">Home</a></li>
+                <li><a ng-href="#/personagens">Personagens</a></li>
                 <li>Mapa</li>
             </ul>
+            <div class="episode">
+                {{episodioSelected.name}}
+            </div>
         </div>
         <div class="body">
             <div ng-view></div>
