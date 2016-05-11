@@ -6,6 +6,9 @@ angular.module('vikings').run(function($http, $rootScope) {
         $rootScope.episodios = response;
         $rootScope.episodioSelected = $rootScope.episodios[0];
     });
+    $http.get('data/personagens.json').success(function(response) {
+        $rootScope.personagens = response;
+    });
 });
 
 
@@ -33,16 +36,21 @@ angular.module('vikings').controller('colorTableCtrl', function($scope) {
 angular.module('vikings').controller('colorTableCtrl', function($scope) {
     $scope.colors = [
         {
-            name: 'Fundo',
+            name: 'Fundo #1',
             color: '#333333'
         },
         {
-            name: 'Frente',
-            color: '#FFFFFF'
+            name: 'Frente #1',
+            color: '#CCCCCC'
         },
         {
-            name: 'Frente cabeçalho',
+            name: 'Fundo #2',
+            color: '#444444'
+        },
+        {
+            name: 'Frente #2',
             color: '#CCCCCC'
-        }
+        },
     ];
 });
+

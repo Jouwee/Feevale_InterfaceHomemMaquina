@@ -1,8 +1,13 @@
 [
     {
-        "season": "1",
-        "episode": "1",
+        "id": "S01E01",
         "date": "03/03/2013",
         "name": "Rites of Passage"
+    },
+    {
+        "id": "S01E02",
+        "episode": "2",
+        "date": "03/03/2013",
+        "name": "Who the fuck cares"
     }
 ]
