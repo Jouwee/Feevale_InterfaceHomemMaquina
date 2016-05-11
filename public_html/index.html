@@ -16,8 +16,15 @@
                 <li><a ng-href="#/personagens">Personagens</a></li>
                 <li>Mapa</li>
             </ul>
-            <div class="episode">
-                {{episodioSelected.name}}
+            <div class="episode clickable" ng-click="">
+                <p class="title"><span class="id">{{episodioSelected.id}}</span> - {{episodioSelected.name}}</p>
+                <p class="release">{{episodioSelected.date}}</p>
+            </div>
+            <div class="episode-list">
+<!--                <div class="episode clickable" ng-click="episodioSelected = episodio" ng-repeat="episodio in episodios">
+                    <p class="title"><span class="id">{{episodio.id}}</span> - {{episodio.name}}</p>
+                    <p class="release">{{episodio.date}}</p>
+                </div>-->
             </div>
         </div>
         <div class="body">
