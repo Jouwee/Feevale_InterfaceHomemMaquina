@@ -1,43 +1,5 @@
-body { background-color: #333333; font-family: sans-serif; margin: 0px }
+.navbar-brand  { padding: 0px }
 
-.header { background-color: #111111; height: 50px; }
+.main-container { padding-top: 50px;}
 
-.header .brand { height: 44px; float: left; margin-top: 3px; margin-bottom: 3px; }
-
-.header ul { list-style-type: none; display: inline-flex; float: left  }
-
-.header ul li { color: #CCCCCC; text-transform: uppercase; list-style-type: none; margin-right: 10px; font-size: 10pt; font-weight: bold; float: left }
-
-.header ul li a { color: #CCCCCC; text-decoration: none }
-.header ul li a:hover { color: #999999 }
-
-.episode .title { }
-
-.episode .title .id { }
-
-.episode .release { font-size: 8pt; font-weight: normal; font-style: italic; }
-
-.header .episode { 
-    color: #CCCCCC; 
-    list-style-type: none; 
-    font-size: 10pt; 
-    font-weight: bold; 
-    float: left; 
-    background-color: #444444;
-    height: 100%;
-    float: right;
-}
-
-.episode-list {
-    position: absolute;
-}
-
-.personagens { width: 100%; padding-top: 30px; text }
-
-.personagem { width: 360px; height: 260px; float: left; }
-
-.personagem img { position: fixed; z-index: -1; width: 360px; height: auto; }
-
-.personagem h1 { position: relative; top: 190px; width: 100%; text-align: center; text-transform: uppercase; font-weight: bold; font-size: 13px; color: #CCCCCC }
-
-.clickable { cursor: pointer };
+.caption .caption-content h1 {}

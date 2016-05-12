@@ -1,21 +1,62 @@
 [
     {
-        "id": "ragnarLothbrok",
+        "id": "ragnar",
         "name": "Ragnar Lothbrok",
+        "firstAppearance": "S01E01",
+        "death": "",
+        "texts": [
+            {
+                "spoilerOf": "S01E01",
+                "text": "Ragnar Lothbrok is a mighty Viking warrior and founder of House Lothbrok, who believes he is destined for greatness. He is driven not only by his thirst for battle and glory, but also by his thirst for knowledge and inquisitive nature."
+            },
+            {
+                "spoilerOf": "S01E01",
+                "text": "Once merely a farmer and a frequent member of the sea raiders along with his fellow Norsemen, Ragnar has since risen to power, beginning with his successful and infamous raids of the west, later became the Earl of Kattegat and eventually even King of Denmark."
+            },
+            {
+                "spoilerOf": "S01E01",
+                "text": "Ragnar's adventuring spirit brings him into conflict with powerful men who try to block his ascent, from farmer to leader—to untold heights. Ragnar identifies with the god Odin, who traded his eye for knowledge, and believes himself to be descended from him."
+            }
+        ]
+    },
+    {
+        "id": "bjorn",
+        "name": "Björn Ragnarsson",
         "firstAppearance": "S01E01",
         "death": "",
         "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
     },
     {
-        "id": "ragnarLothbrok",
-        "name": "Ragnar Lothbrok",
+        "id": "lagertha",
+        "name": "Lagertha",
         "firstAppearance": "S01E01",
         "death": "",
         "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
     },
     {
-        "id": "ragnarLothbrok",
-        "name": "Ragnar Lothbrok",
+        "id": "rollo",
+        "name": "Rollo",
+        "firstAppearance": "S01E01",
+        "death": "",
+        "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
+    },
+    {
+        "id": "harbard",
+        "name": "Harbard",
+        "firstAppearance": "S01E01",
+        "death": "",
+        "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
+    },
+    {
+        "id": "floki",
+        "name": "Floki",
+        "firstAppearance": "S01E01",
+        "death": "",
+        "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
+    },
+    {
+        "id": "athelstan",
+        "name": "Athelstan",
         "firstAppearance": "S01E01",
         "death": "",
         "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"

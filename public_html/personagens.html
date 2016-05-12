@@ -1,8 +1,22 @@
-<div class="content-body">
-    <div class="personagens">
-        <div class="personagem" ng-repeat="personagem in personagens">
-            <img class="thumb" src="img/characters/{{personagem.id}}_thumb.png" />
-            <!--<h1>{{personagem.name}}</h1>-->
+<section id="portfolio">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 text-center">
+                <h2>Personagens</h2>
+                <hr class="star-primary">
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-sm-4 portfolio-item" ng-repeat="personagem in personagens">
+                <a href="#/personagem/{{personagem.id}}" class="portfolio-link" data-toggle="modal">
+                    <div class="caption">
+                        <div class="caption-content">
+                            <h1>{{personagem.name}}</h1>
+                        </div>
+                    </div>
+                    <img src="img/characters/{{personagem.id}}_thumb.png" class="img-responsive" alt="">
+                </a>
+            </div>
         </div>
     </div>
-</div> 
+</section>
