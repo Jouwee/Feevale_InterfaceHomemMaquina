@@ -6,14 +6,10 @@
                 <hr class="star-light">
             </div>
         </div>
-        <div class="row">
-            <div class="col-lg-4 col-lg-offset-2" ng-repeat="text in personagem.texts">
-                <p>{{text.text}}</p>
-            </div>
-            <div class="col-lg-8 col-lg-offset-2 text-center">
-                <a href="#" class="btn btn-lg btn-outline">
-                    <i class="fa fa-download"></i> Download Theme
-                </a>
+        <div class="row" style="margin-bottom: 20px;" ng-repeat="linha in linhas">
+            <div class="col-lg-4" ng-class="{'col-lg-offset-2' : $index == 0}" ng-repeat="text in linha">
+                <p ng-if="text.text !== undefined" ng-style="{'text-align': $index == 0 ? 'right' : 'left'}">{{text.text}}</p>
+                <img ng-if="text.image !== undefined" src="img/characters/{{text.image}}" style="width: 100%"/>
             </div>
         </div>
     </div>

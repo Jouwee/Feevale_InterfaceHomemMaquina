@@ -5,30 +5,29 @@
         "firstAppearance": "S01E01",
         "death": "",
         "texts": [
-            {
-                "spoilerOf": "S01E01",
-                "text": "Ragnar Lothbrok is a mighty Viking warrior and founder of House Lothbrok, who believes he is destined for greatness. He is driven not only by his thirst for battle and glory, but also by his thirst for knowledge and inquisitive nature."
-            },
-            {
-                "spoilerOf": "S01E01",
-                "text": "Once merely a farmer and a frequent member of the sea raiders along with his fellow Norsemen, Ragnar has since risen to power, beginning with his successful and infamous raids of the west, later became the Earl of Kattegat and eventually even King of Denmark."
-            },
-            {
-                "spoilerOf": "S01E01",
-                "text": "Ragnar's adventuring spirit brings him into conflict with powerful men who try to block his ascent, from farmer to leader—to untold heights. Ragnar identifies with the god Odin, who traded his eye for knowledge, and believes himself to be descended from him."
-            }
-        ]
-    },
-    {
-        "id": "bjorn",
-        "name": "Björn Ragnarsson",
-        "firstAppearance": "S01E01",
-        "death": "",
-        "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
+            { "text": "Ragnar Lothbrok é um guerreiro Viking e fundador da Casa Lothbrok, que acredita que ele é destinado à grandiosidade. Ele é motivado não apenas por sua sede por batalhas e glória, mas também por sua sede por conhecimento. Originalmente um mero fazendeiro e um membro frequente dos saqueadores do mar junto com seus parceiros Nórdicos, Ragnar desde então tem subido no poder, começando com seu sucesso em saquear o oeste, após se tornando Jarl de Kattegar e até mesmo Rei da Dinamarca." },
+            { "image": "ragnar_1.jpg" },
+            { "image": "ragnar_2.jpg" },
+            { "text": "Originalmente um mero fazendeiro e um membro frequente dos saqueadores do mar junto com seus parceiros Nórdicos, Ragnar desde então tem subido no poder, começando com seu sucesso em saquear o oeste, após se tornando Jarl de Kattegar e até mesmo Rei da Dinamarca. O espírito aventureiro de Ragnar leva ele a conflitos com homens poderosos que tentam bloquear a sua acensão de fazendeiro a líder. Ragnar se identifica com o deus Odin, que trocou o seu olho por conhecimento, e acredita que ele próprio é decendente do deus." },
+            { "text": "No começo da série, Ragnar está nos Bálticos do Leste ao lado de seu irmão, Rollo, lutando contra vários homens tribais Bálticos. Após se dispachar dos homens do leste, Ragnar ve a visão de Odin, disfarçado de Andarilho, direcionando as Valquírias em levar os espíritos dos homens Nórdicos caídos para Valhalla. Algum tempo depois, Ragnar retorna para sua pequena fazenda e casa de pesca onde sua família reside, não muito long da vila de Kattegat com o pouco que ele conseguiu saquear dos Bálticos." },
+            { "image": "ragnar_3.jpg" }
+       ]
     },
     {
         "id": "lagertha",
         "name": "Lagertha",
+        "firstAppearance": "S01E01",
+        "death": "",
+        "texts": [
+            { "text": "Lagertha é uma conhecida dama-de-escudo, que continua a lutar ao lado de seu ex-marido e companheiros Vikings. Uma vez esposa devota de Ragnar Lothbrok, com quem compartilhou uma grande história de amor, profundo respeito, admiração e ambições. Lagertha desde então se casou com outro após terem perdido seu segundo filho. Desde a perda de seus filhos e sofrendo os golpes do amor e rejeição, Lagertha percebe que a fertilidade da deusa Freyja é para outra. Lagertha permanece independente quanto a proteger sua família." },
+            { "image": "lagertha_2.jpg" },
+            { "image": "lagertha_1.jpg" },
+            { "text": "Originalmente um mero fazendeiro e um membro frequente dos saqueadores do mar junto com seus parceiros Nórdicos, Ragnar desde então tem subido no poder, começando com seu sucesso em saquear o oeste, após se tornando Jarl de Kattegar e até mesmo Rei da Dinamarca. O espírito aventureiro de Ragnar leva ele a conflitos com homens poderosos que tentam bloquear a sua acensão de fazendeiro a líder. Ragnar se identifica com o deus Odin, que trocou o seu olho por conhecimento, e acredita que ele próprio é decendente do deus." }
+       ]
+    },
+    {
+        "id": "bjorn",
+        "name": "Björn Ragnarsson",
         "firstAppearance": "S01E01",
         "death": "",
         "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
