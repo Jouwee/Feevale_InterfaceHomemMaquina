@@ -30,34 +30,47 @@
         "name": "Björn Ragnarsson",
         "firstAppearance": "S01E01",
         "death": "",
-        "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
+        "texts": [
+            { "text": "Björn Ironside é o filho de Ragnar Lothbrok e Lagertha. the lover of Torvi e herdeiro de Kattegat. Inteligente e determinado, Björn criou um nome para si, seguindo os passos de seu pai como um guerreiro formidável, líder e explorador. Ele compartilha a cede de seu pai por aventura e desejo de explorar terras distantes." },
+            { "image": "bjorn_2.jpg" },
+            { "image": "bjorn_1.jpeg" },
+            { "text": "Ao completar 12 anos de idade, considerado maioridade na antiga sociedade Viking, Björn recebeu seu bracelete do então Jarl Haraldson. Björn almejava se tornar um guerreiro como seu pai, desesperado por reconhecimento como um homem e a lutar nos saques com seu pai, mas sua pouca idade e inexperiência o impediram. Björn é leal a seus dois pais, e não demonstrava medo ao quebrar as brigas entre seus pais na Ira do Nórdicos." }
+       ]
     },
     {
         "id": "rollo",
         "name": "Rollo",
         "firstAppearance": "S01E01",
         "death": "",
-        "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
-    },
-    {
-        "id": "harbard",
-        "name": "Harbard",
-        "firstAppearance": "S01E01",
-        "death": "",
-        "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
+        "texts": [
+            { "text": "Rollo é o irmão de Ragnar Lothbrok. Um guerreiro feroz com o machado e uma personalidade impulsiva. Embora Ragnar tenha prometido a Rollo que eles sempre serão iguais, inveja e tensões muitas vezes ameaçam o relacionamento entre eles, com Rollo é assumido como alguem que trairia seu irmão pelos seus inimigos em troca de poder." },
+            { "image": "rollo_2.jpg" },
+            { "image": "rollo_1.jpg" },
+            { "text": "Rollo acompanha seu irmão Ragnar no seu primeiro saque à Inglaterra, que foi feito contra as ordens do Jarl Haraldson. Rollo não mantém em segredo a atração que sente por Lagertha e o arrependimento de que ela escolheu Ragnar ao invés dele. Em um saque subsequente a Inglaterra, Rollo ataca Knut, meio-irmão do Jarl e espião, por tentar se impor à Lagertha. Quando depois Lagertha mata Knut por tentar estuprar uma Saxã e após a ela própria, Ragnar falsamente diz que ele próprio matou Knut para proteger sua esposae é colocado em julgamento pelo Jarl Haraldson. Apesar das tentativas do Jarl para subpornar Rollo à se virar contra o irmão Ragnar, ele testemunha a favor de seu irmão, que é então dito como inocente." }
+       ]
     },
     {
         "id": "floki",
         "name": "Floki",
         "firstAppearance": "S01E01",
         "death": "",
-        "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
+        "texts": [
+            { "text": "Floki é um construtor de barcos e brincalhão incorrigível, e também é o amigo ecêntrico e mais próximo de Ragnar Lothbrok. Esforçado para ajudar Ragnar a navegar para o oeste, ele secretamente constrói a nova geração de barcos longos Vikings para sua viajem atráves do oceano. Floki é uma pessoa neurótica, mas com uma personalidade muito balanceada. Possuindo um nível de medo razoável, e um vasto intelecto, ele é capaz de facilmente construir barcos especializados, e não se considera invencível da mesma forma que Ragnar." },
+            { "image": "floki_2.jpg" },
+            { "image": "floki_1.jpg" },
+            { "text": "Floki está sempre estudando o mundo ao seu redor, e o mesmo está sempre em sua atenção, como deveria ser.  Sua tendência de ser nervoso, reagir com raiva e insegurança em suas habilidades como guerreiro, e seu status entre outros Vikings, no entanto, o impede de ganhar maior confiança de Ragnar para guiá-lo melhor." }
+       ]
     },
     {
         "id": "athelstan",
         "name": "Athelstan",
         "firstAppearance": "S01E01",
         "death": "",
-        "shortDescription": "At one point, Ragnar went to Lagertha's home to confess his love to her, but he was set upon by a bear and an enormous hound who guarded her home. Ragnar killed the bear with his spear and strangled the hound with his bare hands, thus gaining Lagertha's hand in marriage.VAGER"
+        "texts": [
+            { "text": "Athelstan era um jovem Anglo-saxão, era um monge Critão que foi raptado por Ragnar Lothbrok e os outros Vikings do monastério de Lindisfarne. Athelstan foi trazido para viver na sociedade Viking e luta para manter suas crenças em um ambiente muito diferente de seu lar através do mar. Partido entre manter suas crências e sobreviver nesse novo, cruel mundo, Athelstan começa a duvidar sua fé em Deus." },
+            { "image": "athelstan_2.jpg" },
+            { "image": "athelstan_1.jpeg" },
+            { "text": "Apesar do conhecimento de Athelstan - habilidades linguísticas extensas, mente lógica, conhecimento da Bíblioa, etc - ele é extremamente inocente quando trabalhando com outras pessoas, especialmente os ambiciosos. Apesar de sua inteligência, ou talvez por causa dela, ele se encontra dividido entre suas antigas crenças religiosas e as tradições culturais as quais ele é exposto durante seu tempo com os Vikings." }
+       ]
     }
 ]
