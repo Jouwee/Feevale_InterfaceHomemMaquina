@@ -72,5 +72,35 @@
             { "image": "athelstan_1.jpeg" },
             { "text": "Apesar do conhecimento de Athelstan - habilidades linguísticas extensas, mente lógica, conhecimento da Bíblioa, etc - ele é extremamente inocente quando trabalhando com outras pessoas, especialmente os ambiciosos. Apesar de sua inteligência, ou talvez por causa dela, ele se encontra dividido entre suas antigas crenças religiosas e as tradições culturais as quais ele é exposto durante seu tempo com os Vikings." }
        ]
+    },
+    {
+        "id": "ecbert",
+        "name": "Ecbert",
+        "firstAppearance": "S01E01",
+        "death": "",
+        "texts": [
+            { "text": "Rei Ecbert é o bem-aventurado e ambicioso Rei de Wessex, cujos anos de sua formação foram passados na corte do Imperador Calos-Magno. Um homem ambicioso, mente-aberta e de forte conhecimentos e força de vontade para usar essas qualidades de forma decisiva, Rei Ecbert se põe como valoroso oponente para seu inimigo/aliado Ragnar Lothbrok." },
+            { "image": "ecbert_1.jpg" }
+       ]
+    },
+    {
+        "id": "aslaug",
+        "name": "Aslaug",
+        "firstAppearance": "S01E01",
+        "death": "",
+        "texts": [
+            { "text": "Rainha Aslaug é a segunda esposa de Ragnar Lothbrok e mãe de seus filhos mais novos. Aslaug tem um \"dom\": como uma völva, Aslaug é uma forma de vidente, que vê o futuro em forma de visões" },
+            { "image": "aslaug_1.jpg" }
+       ]
+    },
+    {
+        "id": "horik",
+        "name": "Horik",
+        "firstAppearance": "S01E01",
+        "death": "",
+        "texts": [
+            { "text": "Rei Horik era o último rei Viking da Denmark. Inicialimente criando uma aliança com o Jarl Ragnar Lothbrok, ele depois vê as ambições do Jarl como uma ameaça a suas próprias." },
+            { "image": "horik_1.jpg" }
+       ]
     }
 ]
