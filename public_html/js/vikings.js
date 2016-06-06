@@ -21,6 +21,10 @@ angular.module('vikings').run(function($http, $rootScope) {
 
 angular.module('vikings').config(function($routeProvider) {
   $routeProvider
+   .when('/', {
+    templateUrl: 'indexView.html',
+    controller: 'indexCtrl'
+   })
    .when('/personagens', {
     templateUrl: 'personagens.html',
     controller: 'personagensCtrl'
@@ -32,6 +36,10 @@ angular.module('vikings').config(function($routeProvider) {
 });
 
 angular.module('vikings').controller('personagensCtrl', function($scope) {
+    
+});
+
+angular.module('vikings').controller('indexCtrl', function($scope) {
     
 });
 
