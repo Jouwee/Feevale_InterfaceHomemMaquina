@@ -1,9 +1,17 @@
-Nícolas Pohren (0118194), Universidade Feevale 2016
+﻿Nícolas Pohren (0118194), Universidade Feevale 2016
+
+
 
 Interface Homem Máquina
 
+
+
 Observações:
+
 - Está pasta é um projeto do Netbeans. Recomendo utilizar esta IDE para visualizar os arquivos
+
 - Os arquivos HTML, CSS e JS se encontram na pasta public_html
+
 - É necessário ter um servidor HTTP rodando para disponibilizar o site. Executando pelo Netbeans o servidor já será levantado
+
 - Ou também pode-se acessar a versão online deste website: http://jouwee.esy.es/IHC/public_html
